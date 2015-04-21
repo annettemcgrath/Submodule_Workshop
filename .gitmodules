@@ -1,3 +1,6 @@
 [submodule "style"]
 	path = style
 	url = git://github.com/BPA-CSIRO-Workshops/workshop-style.git
+[submodule "020_qc"]
+	path = 020_qc
+	url = git@github.com:BPA-CSIRO-Workshops/btp-module-ngs-qc.git
