@@ -4,3 +4,6 @@
 [submodule "020_qc"]
 	path = 020_qc
 	url = git@github.com:BPA-CSIRO-Workshops/btp-module-ngs-qc.git
+[submodule "030_qc"]
+	path = 030_qc
+	url = git@github.com:BPA-CSIRO-Workshops/btp-module-rna-seq.git
